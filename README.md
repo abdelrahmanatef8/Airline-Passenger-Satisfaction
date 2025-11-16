@@ -1,8 +1,8 @@
-# Airline Passenger Satisfaction Project
+# 🛫 Airline Passenger Satisfaction Project
 
 ---
 
-## 🛫 Project Overview
+## 🖌️ Project Overview
 This project analyzes airline passenger data to identify key factors affecting satisfaction and dissatisfaction. It applies predictive models to forecast passenger satisfaction levels and builds an interactive dashboard to visualize insights and provide actionable recommendations.
 
 The main goal is to transform raw airline data into meaningful insights that help airlines improve passenger experience and service quality.
