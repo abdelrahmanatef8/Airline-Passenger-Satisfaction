@@ -36,7 +36,9 @@ The main goal is to transform raw airline data into meaningful insights that hel
 - **Jupyter Notebook (.ipynb):** [Google Drive Link](https://drive.google.com/file/d/1gqlanDch8YIfHmK-vzxlavyEq46ZczA0/view?usp=sharing)
 - **Power BI Dashboard (.pbix):** [Google Drive Link](https://drive.google.com/file/d/1Ytpv-vxPtIo2qBw-mT_NO2s3pR4F1bCe/view?usp=sharing)
 - **Poster & Logo (Visual Identity):** [Google Drive Link](https://drive.google.com/drive/folders/1K9BEsqaXPvEGpAeuW2z7GKqh0zROBOBM?usp=sharing)
-- **Complementary Products / Presentation:** **?**
+- **Complementary Products /**Presentation:** [Google Drive Link](https://drive.google.com/file/d/1VgHKmz4-CPOED0WSsYGyRkgehygwRp_m/view?usp=sharing)
+
+
 
 ---
 
